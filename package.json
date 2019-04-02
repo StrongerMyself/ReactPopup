@@ -1,0 +1,16 @@
+{
+  "name": "react-inversion-of-control",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/StrongerMyself/react-inversion-of-control.git",
+  "author": "stronger_myself <misha.smerch.1997@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.10",
+    "@types/react-dom": "^16.8.3"
+  }
+}
