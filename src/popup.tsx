@@ -6,7 +6,6 @@ interface State {
 }
 
 class Popup extends Component<{}, State> {
-
 	static _this
 
 	constructor(props) {
